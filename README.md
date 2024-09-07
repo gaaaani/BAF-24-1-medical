@@ -1,3 +1,10 @@
 # BAF-24-1-medical
-![image](https://github.com/gunheee-leee/BAF-24-1-medical/assets/143998370/dcd132e0-55e9-4583-a310-f894d5b5f428)
-지금 내 상태
+https://github.com/gaaaani/BAF-24-1-medical/issues/1#issue-2511484233
+# 주제
+수면/행동 패턴과 치매 사이의 연관성 분석
+# 의료조
+|소속|전공|이름|
+|------|---|---|
+|동국대학교|통계학과|서가은|
+|동국대학교|통계학과|이건희|
+|동국대학교|통계학과|정호원|
