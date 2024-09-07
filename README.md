@@ -1,5 +1,5 @@
 # BAF-24-1-medical
-https://github.com/gaaaani/BAF-24-1-medical/issues/1#issue-2511484233
+![image](https://github.com/user-attachments/assets/698d2033-7347-4916-a5e0-b2f259293d60)
 # 주제
 수면/행동 패턴과 치매 사이의 연관성 분석
 # 의료조
